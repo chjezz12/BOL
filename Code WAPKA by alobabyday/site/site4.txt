@@ -1,2 +1,0 @@
-﻿wml: :userstats: d=ru, o=cl, l=50,s=1:: <div class="list"><strong>&#183; %picture% %lname% [%groups%]</strong>:br:&#187;Ðiểm: %credit% <br/> &#187;Đang ở: %location% <br/>&#187; Ngày tham gia: %rdate% <br/>&#187;Thiết bị: %browser% </div>:: :/userstats:
-

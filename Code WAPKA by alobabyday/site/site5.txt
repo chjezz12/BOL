@@ -1,2 +1,0 @@
-﻿wml: <div class="top">Hệ thống</div><div class="whole">Rất mong bạn thông cảm. Chúng tôi cần bạn xác nhận rằng bạn là chủ sở hữu tài khoản :user: trong phiên đăng nhập này để hoàn thiện database. Việc này hoàn toàn có lợi bởi <b>hệ thống cơ sở dữ liệu</b> sẽ thay bạn hoàn thiện các thông số.</div> <div class="list">xác nhận :user: là tài khoản của bạn</div>:eprofile-0: ::var-9999(':user-fmsg:'>':user: là tài khoản của tôi')::@@Xác nhận:/eprofile:
-

@@ -1,1 +1,0 @@
-:iconlist:d=forum,l=50:: %icon% | <textarea>%text%</textarea>::<hr/>:/iconlist:
