@@ -1,0 +1,34 @@
+<div class="page">
+::CREATE_LINK::
+<table>
+<tbody><tr>
+	<td class="tcat" width="100%">Chuyên m?c </td>
+	<td  class="vbmenu_control" id="forumtools" nowrap="nowrap" style="cursor: pointer; ">Ch?c nang<script type="text/javascript"> vbmenu_register("forumtools"); </script> <img src="http://uhm.vn/forum/images/2011/misc/menu_open.gif" border="0" title="" alt=""></td >
+	
+	<td class="vbmenu_control" id="forumsearch" nowrap="nowrap">Tìm trong chuyên m?c</td >
+	
+</tr>
+</tbody></table>
+<table class="tborder" cellpadding="6" cellspacing="1" border="0" width="100%" align="center" id="threadslist">
+<tbody>
+<tr>
+
+	
+		<td class="thead" colspan="2">&nbsp;</td>
+	
+	<td class="thead" width="100%">
+	
+		Ch? d?  /
+		Ngu?i dang
+	</td>
+	<td class="thead" width="150" align="center" nowrap="nowrap"><span style="white-space:nowrap">Bài cu?i <img class="inlineimg" src="http://uhm.vn/forum/images/2011/buttons/sortasc.gif" alt="X?p theo th? t?" border="0" title="X?p theo th? t?"></span></td>
+	<td class="thead" align="center" nowrap="nowrap"><span style="white-space:nowrap">Tr? l?i</span></td>
+	<td class="thead" align="center" nowrap="nowrap"><span style="white-space:nowrap">L?n d?c</span></td>
+
+	
+
+</tr>
+</tbody></table>
+::THEMES::
+::CREATE_LINK::
+</div>

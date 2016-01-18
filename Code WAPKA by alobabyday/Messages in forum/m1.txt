@@ -1,0 +1,99 @@
+<div style="padding:0px 10px 0px 10px" align="left">
+
+	<div id="edit401923" style="padding:0px 0px 6px 0px">
+	
+
+
+
+<table id="post401923" class="tborder" cellpadding="6" cellspacing="0" border="0" width="100%" align="center">
+<tbody><tr>
+	
+		<td class="thead" style="font-weight:normal; border: 1px solid #ffffff; border-right: 0px" id="currentPost">
+			<!-- status icon and date -->
+			<a name="post401923"><img class="inlineimg" src="http://uhm.vn/forum/images/2011/statusicon/post_new.gif" alt="Chua d?c" border="0" title="Chua d?c"></a>
+			::date::
+			<a name="newpost"></a>
+			<!-- / status icon and date -->
+		</td>
+		<td class="thead" style="font-weight:normal; border: 1px solid #ffffff; border-left: 0px" align="right">
+			&nbsp;
+			#::msg_id::
+			
+		</td>
+	
+</tr>
+<tr valign="top">
+	<td class="alt2" width="175" style="border: 1px solid #ffffff; border-top: 0px; border-bottom: 0px">
+<center>
+			<div id="postmenu_401923">
+				
+				<a class="bigusername" href="::url_profile::">::user::</a>
+				
+			</div>
+
+			
+			
+				<div class="smallfont">
+					&nbsp;<br><a href="::url_profile::"><img src="::url_profile_pic::" width="156" height="280" alt="Avatar c?a ::url_profile_pic::" border="0""></a>
+				</div>
+			
+</center>
+			Bài vi?t: ::msg_count::<br/> 
+- Gi?i tính: <font color="gray">::var-2::</font><br/>
+- Sinh nh?t: <font color="gray">::var-3::</font><br/>
+- S? di?n tho?i: <font color="gray">::var-4::</font><br/>
+- Ð?n t?: <font color="gray">::var-5::</font><br/>
+- Gi?i thi?u: <font color="gray">::var-5::</font><br/>
+- Email: <font color="gray">::var-6::</font><br/>
+- Tâm tr?ng: <font color="gray">::var-7::</font>
+			
+			</div>
+</td>
+	
+	<td class="alt1" id="td_post_401923" style="border-right: 1px solid #ffffff">
+	
+		
+		
+			<!-- icon and title -->
+<div class="post_body">
+			<div class="smallfont">
+				<img class="inlineimg" src="http://uhm.vn/forum/images/icons/icon1.gif" alt="M?c d?nh" border="0" title="M?c d?nh">
+				<strong> ::browser:: </strong>
+			</div>
+			<hr size="1" style="color:#ffffff; background-color:#ffffff">
+			<!-- / icon and title -->
+		
+
+		<!-- message -->
+		::msg::
+		<!-- / message -->
+
+		
+</div>
+		
+		
+
+
+
+
+	</td>
+</tr>
+<tr>
+	<td class="alt2" style="border: 1px solid #ffffff; border-top: 0px">
+		::status::
+	</td>
+	
+	<td class="alt1" align="right" style="border: 1px solid #ffffff; border-left: 0px; border-top: 0px">
+	
+		<!-- controls -->
+		
+			<a href="::url_quote::" rel="nofollow"><img src="http://uhm.vn/forum/images/2011/buttons/quote.gif" alt="Tr? l?i v?i trích d?n" border="0" title="Tr? l?i v?i trích d?n"></a>
+		
+		<!-- / controls -->
+	</td>
+</tr>
+</tbody></table>
+</div>
+</div>
+
+

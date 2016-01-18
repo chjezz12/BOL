@@ -1,0 +1,1 @@
+﻿wml: :userstats:d=oa,o=t,a=Khách::<div class="list"><b>%lname%</b><br/>Thiết bị: %browser%(%ip%) :br:Hoạt động cuối: %location%</div>::<hr/>:/userstats:

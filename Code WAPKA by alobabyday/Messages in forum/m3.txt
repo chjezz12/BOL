@@ -1,0 +1,19 @@
+<div class="page"><script language="JavaScript"> document.title = document.title + " | ::THEME_NAME::" ; </script>
+
+<head><title>::THEME_NAME::</title>
+<meta name="title" content="::THEME_NAME::" /></head>
+<meta name="title" content="::THEME_NAME::" /></head>::NOTIFICATIONS:: <br/>
+<table>
+<tbody><tr>
+	<td class="tcat" width="100%">Chuyên m?c : ::THEME_NAME::</td>
+	<td  class="vbmenu_control" id="forumtools" nowrap="nowrap" style="cursor: pointer; ">Ch?c nang<script type="text/javascript"> vbmenu_register("forumtools"); </script> <img src="http://uhm.vn/forum/images/2011/misc/menu_open.gif" border="0" title="" alt=""></td >
+	
+	<td class="vbmenu_control" id="forumsearch" nowrap="nowrap">Tìm trong chuyên m?c</td >
+	
+</tr>
+</tbody></table>
+<br/>
+::MESSAGES::
+<div class="fbs">::LISTER_BOTTOM::</div>
+<center>::REPLY_AREA::</center>
+</div>

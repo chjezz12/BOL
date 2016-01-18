@@ -1,0 +1,14 @@
+﻿<div class="list">- Ngày đăng kí: <font color="gray">::date_reg::</font><br/>
+- Đã đăng nhập: <font color="gray">::log_count:: lần</font><br/>
+- Hiện đang: <font color="green"><b>::status::</b></font><br/>
+- Chức vụ: <font color="gray">::groups::</font><br/>
+
+- Bài viết: ::msg_count::<br/>
+- Chủ đề: ::theme_count::<br/>
+- Lần đăng nhập trước: <font color="gray">::date_log::</font><br/>
+- Tài sản: <font color="red">::credit::</font> (VND)<br/> 
+</div>
+<div class=""><b>•Thông tin thêm:</b></div>
+<div class="list">- IP: <font color="gray">::ip::</font><br/>
+- Trình duyệt: <font color="gray">::browser::</font><br/>
+- Hồ sơ đã được xem <b>::pr_count::</b> lần ( Cuối ::pr_lastuser::)</br>

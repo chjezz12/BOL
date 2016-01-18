@@ -1,0 +1,11 @@
+﻿<div class=""><b>•Thông tin cá nhân:</b></div>
+<div class="list">
+- Tên thật: <font color="gray">::var-1::</font><br/>
+- Giới tính: <font color="gray">::var-2::</font><br/>
+- Sinh nhật: <font color="gray">::var-3::</font><br/>
+- Số điện thoại: <font color="gray">::var-4::</font><br/>
+- Đến từ: <font color="gray">::var-5::</font><br/>
+- Giới thiệu: <font color="gray">::var-5::</font><br/>
+- Email: <font color="gray">::var-6::</font><br/>
+- Tâm trạng: <font color="gray">::var-7::</font>
+</div>

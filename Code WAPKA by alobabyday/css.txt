@@ -1,0 +1,118 @@
+.body { background: black; }
+.page { }
+
+
+
+body {
+background: url("http://uhm.vn/forum/images/2011/bg.jpg") no-repeat fixed center top transparent;
+color: #333;
+font: 12px tahoma,geneva,lucida,'lucida grande',arial,helvetica,sans-serif;
+margin: 0px;
+padding: 0px;
+}
+a:visited, body_avisited {
+color: #0159B3;
+text-decoration: none;
+}
+.uhm_wrapper {
+margin: 0 auto;
+width: 980px;
+height:250px;
+float:right;
+}
+.uhm_tua {
+padding-bottom: 50px;
+}
+.uhm_header_may {
+background: url("http://uhm.vn/forum1/images/2011/may.png") repeat-x scroll center center transparent;
+height: 180px;
+}
+.page {
+background: white;
+color: black;
+width: 974px;
+
+margin: 0 auto;
+border: 1px solid #DDD;
+}
+.tborder {
+background: white;
+color: black;
+border: 1px solid #DDD;
+}
+.alt1, .alt1Active {
+background: white;
+color: black;
+font-size: 10pt;
+border: 1px solid #EDEDED;
+}
+.alt2, .alt2Active {
+background: white url(http://uhm.vn/forum/images/2011/alt2.gif) repeat;
+color: black;
+font-size: 10pt;
+border: 1px solid #EDEDED;
+}
+.vbmenu_control
+{
+	background: #664632 url(http://uhm.vn/forum/images/2011/tcatv.gif) repeat;
+	color: #1c1c1c;
+	font: bold 11px tahoma, verdana, geneva, lucida, 'lucida grande', arial, helvetica, sans-serif;
+	padding: 3px 6px 3px 6px;
+	white-space: nowrap;
+}
+.vbmenu_control a:link, .vbmenu_control_alink
+{
+	color: #B93535;
+	text-decoration: none;
+}
+.vbmenu_control a:visited, .vbmenu_control_avisited
+{
+	color: #B93535;
+	text-decoration: none;
+}
+.vbmenu_control a:hover, .vbmenu_control a:active, .vbmenu_control_ahover
+{
+	color: #3A4276;
+	text-decoration: none;
+}
+.button {
+background: white;
+color: #333;
+font: bold 11px "lucida grande",tahoma,verdana,arial,sans-serif;
+padding: 3px;
+border-bottom: 1px solid #CCC;
+border-right: 1px solid #CCC;
+vertical-align: middle;
+margin-left: 10px;
+}
+.tcat {
+background: #664632 url(http://uhm.vn/forum/images/2011/tcatv.gif) repeat;
+color: #BB3914;
+font: bold 13px tahoma, geneva, lucida, 'lucida grande', arial, helvetica, sans-serif;
+padding: 10px;
+text-align: center;
+border-solid: 2px solid #F97D1A;
+text-shadow: 0 1px 1px white;
+text-transform: uppercase;
+}
+.panel {
+background: white;
+color: #333;
+border: 1px dashed #DEDEDE;
+color: #666;
+padding: 10px;
+}
+.thead {
+background: #664632 url(http://uhm.vn/forum/images/2011/tcatm.gif) repeat;
+color: #666;
+font: bold 11px tahoma, verdana, geneva, lucida, 'lucida grande', arial, helvetica, sans-serif;
+border-bottom: solid 1px #E0E0E0;
+}
+.smallfont {
+font: 12px "lucida grande",tahoma,verdana,arial,sans-serif;
+line-height: 16px;
+}
+.bginput {
+font: 11px tahoma, verdana, geneva, lucida, 'lucida grande', arial, helvetica, sans-serif;
+border: 1px solid #ABE57B;
+}
